@@ -1,2 +1,2 @@
 # prototype
-Prototype Web Site built with Bootstrap
+Prototype Web Site built with Bootstrap, JS, etc...
