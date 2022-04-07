@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.titlePage {
+    font-size: 40px;
+}
+.menu {
+    background-color: grey;
+}
+.menuList {
+    display: flex;
+    justify-content: flex-end;
+}
+.carouselStyle {
+    height: 700px;
+}
+.descTxtHead {
+    color: black;
+}
+.descriptionTxt {
+    color: black;
+    font-size: 25px;
+}
+.descTxtHeadW {
+    color: white;
+}
+.descriptionTxtW {
+    color: white;
+    font-size: 25px;
+}
+.padTop {
+    padding-top: 30px;
+    text-align: center;
+    align-items: center;
+}
+.float-end{
+    font-size: 20px;
+}
